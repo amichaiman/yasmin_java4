@@ -1,0 +1,11 @@
+prism: (base shape= Triangle with area=2.9 and perimeter=9) and (height=2) 5.809475019311125
+pyramid: (base shape=Triangle with area=0.9 and perimeter=5.5) and (height=20) 14.248766393972499
+prism: (base shape= Rectangle with area=2 and perimeter=6) and (height=20) 40.0
+pyramid: (base shape=Triangle with area=0.9 and perimeter=5.5) and (height=20) 14.248766393972499
+prism: (base shape= Triangle with area=0 and perimeter=0) and (height=3.2) 0.0
+prism: (base shape= Triangle with area=0 and perimeter=0) and (height=1) 0.0
+prism: (base shape= Triangle with area=1.6 and perimeter=8.4) and (height=5) 8.184741901856164
+prism: (base shape= Rectangle with area=0 and perimeter=0) and (height=2.2) 0.0
+pyramid: (base shape=Rectangle with area=16.8 and perimeter=16.8) and (height=8.9) 112.34024999999998
+pyramid: (base shape=Triangle with area=1 and perimeter=6.3) and (height=2.3) 1.6966878936898642
+prism: (base shape= Rectangle with area=2 and perimeter=6) and (height=20) 40.0
